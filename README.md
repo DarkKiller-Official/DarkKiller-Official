@@ -1,6 +1,10 @@
-## Hi there 👋 I am Cyber Draxo 🎲🎲Enjoy My Profile 🚀🚀
+
+
+## <b1> Hi there 👋 I am Cyber Draxo 🎲🎲Enjoy My Profile 🚀🚀 </b1>
 ![My card name](https://cardivo.vercel.app/api?name=Cyber%20Draxo%20🎲🎲&description=Hi,%20i%27m%20simple%20developer%20and%20i%27m%20in%20sri%20lanka%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/185c241c27145c2520a94.jpg?v=4&backgroundColor=%#000000&github=BlackerMoskie&pattern=leaf&colorPattern=%23eaeaea)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70909&lines=Hey+There+I+am+Cyber+Draxo+%F0%9F%92%8E%F0%9F%92%8E;Welcome+To+The+My+GitHub+Profile;Enjoy+My+GitHub+Profile;My+New+Project+Is+WhatsApp+User+Bot;My+New+WhatsApp+User+Bot+Name+Is+Queen+Natsumi)](https://git.io/typing-svg)
 
 [![Youtube](https://img.shields.io/badge/Cyber%20Draxo%20YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://youtube.com/channel/UC-P4xVFvCgqQuUx9PrN2DIA)
 [![Telegram](https://img.shields.io/badge/Dinuka%20Himsara%20Telegram%20No-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/CyberDraxo)
